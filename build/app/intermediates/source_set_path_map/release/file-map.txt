@@ -1,0 +1,13 @@
+com.example.glebonomika.app-jetified-window-java-1.0.0-beta04-0 /Users/romankulshin/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.glebonomika.app-core-1.6.0-1 /Users/romankulshin/.gradle/caches/transforms-3/4ca28c4a71705f8a687c69dda140a277/transformed/core-1.6.0/res
+com.example.glebonomika.app-jetified-annotation-experimental-1.1.0-2 /Users/romankulshin/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.glebonomika.app-jetified-window-1.0.0-beta04-3 /Users/romankulshin/.gradle/caches/transforms-3/dee59bb480020f42d53c2ea15e4501f7/transformed/jetified-window-1.0.0-beta04/res
+com.example.glebonomika.app-main-4 /Users/romankulshin/StudioProjects/glebonomika/android/app/src/main/res
+com.example.glebonomika.app-release-5 /Users/romankulshin/StudioProjects/glebonomika/android/app/src/release/res
+com.example.glebonomika.app-pngs-6 /Users/romankulshin/StudioProjects/glebonomika/build/app/generated/res/pngs/release
+com.example.glebonomika.app-resValues-7 /Users/romankulshin/StudioProjects/glebonomika/build/app/generated/res/resValues/release
+com.example.glebonomika.app-rs-8 /Users/romankulshin/StudioProjects/glebonomika/build/app/generated/res/rs/release
+com.example.glebonomika.app-mergeReleaseResources-9 /Users/romankulshin/StudioProjects/glebonomika/build/app/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.glebonomika.app-mergeReleaseResources-10 /Users/romankulshin/StudioProjects/glebonomika/build/app/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.glebonomika.app-merged_res-11 /Users/romankulshin/StudioProjects/glebonomika/build/app/intermediates/merged_res/release
+com.example.glebonomika.app-packaged_res-12 /Users/romankulshin/StudioProjects/glebonomika/build/path_provider_android/intermediates/packaged_res/release
